@@ -12,6 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+### Project Details
 Initially on load of the application we will be having following two things on our screen- 
     1 form to fill in the coordinates and position
     1 5*5 2D matric 
