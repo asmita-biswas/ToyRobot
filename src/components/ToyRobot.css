@@ -1,0 +1,76 @@
+.parentDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.tableDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+}
+.tableDivXaxis{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.inputDiv {
+    display: flex;
+    width: 60%;
+    justify-content: space-evenly;
+}
+.inputField{
+    width: 15%;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+}
+.submitButton{
+    margin-top: 30px;
+    width: 50%;
+    min-height: 5rem;
+    cursor: pointer;
+    background-color: #ffd000;
+}
+
+.squareDiv{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
+
+.robot{
+    background-color: #ffd000;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.errorDiv{
+    margin-top: 20px;
+    color: red;
+}
+.command{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+    width: 20%;
+}
+
+.commandButton{
+    margin-top: 10px;
+    width: 100%;
+    height: 50%;
+    cursor: pointer;
+    background-color: #ffd000;
+}
+.moveErrorDiv{
+    margin-top: 1%;
+    color: red;
+    text-align: center;
+}
+
